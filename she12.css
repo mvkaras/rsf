@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: #98d89e;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: book antiqua;
+    color: #267345;
+    
+}
+
+.link-header {
+    color: #72aa92;
+    border: solid 3px #72aa92;
+    border-radius: 20%;
+    padding: 5px;
+    margin: 10px;
+    background-color: #b6d8c8;
+}
+
+.link-header:hover {
+    transition: 2s background-color linear;
+    background-color: #97f3bc;
+    color: #5bcc88;
+    border: solid 3px #40a378;
+}
+
+ul {
+    color:#267345;
