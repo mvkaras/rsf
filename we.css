@@ -1,0 +1,37 @@
+body {
+    font-family: courier;
+    background-color: #c0d3ca;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: courier;
+    color: #267345;
+    
+}
+
+.link-header {
+    border: solid 3px #2f8b63;
+    border-radius: 20%;
+    padding: 5px;
+    margin: 10px;
+    background-color: #64d390;
+    color: #267345;
+}
+
+.link-header:hover {
+    transition: 2s background-color linear;
+    background-color: #97f3bc;
+    color: #5bcc88;
+    border: solid 3px #40a378;
+}
+
+p {
+    color: #607d62;
+    font-family: courier;
+}
+
+p a {
+    color: #607d62;
+}
